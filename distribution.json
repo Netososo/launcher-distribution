@@ -1,0 +1,16 @@
+{
+  "mainServer": "terraza-server",
+  "servers": [
+    {
+      "id": "terraza-server",
+      "icon": "icono.png",
+      "description": "Servidor Principal de Prueba",
+      "address": "Netososo-3zSq.aternos.me",
+      "minecraftVersion": "1.20.1",
+      "modpack": {
+        "required": false,
+        "mods": []
+      }
+    }
+  ]
+}
